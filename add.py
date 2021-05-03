@@ -1,0 +1,6 @@
+print("Enter Your First Number")
+inpnum1=input()
+print("Enter Your Second Number")
+inpnum2=input()
+sum=int(inpnum1)+int(inpnum2)
+print("The Result is", sum)
